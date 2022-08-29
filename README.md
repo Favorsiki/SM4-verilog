@@ -4,7 +4,7 @@
 
 ### 1、Result of Simulation (in ModelSim)
 
-![1](images\1.png)
+![1](images/1.png)
 
 ### 2、Result of Synthesize 
 
